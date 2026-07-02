@@ -25,6 +25,11 @@ MySQL
 Git • GitHub • Docker (Learning) • Linux (Learning)
 
 ---
+## What I'm Working On
+
+- Building production-ready backend applications
+- Learning Docker and Linux
+- Practicing Data Structures & Algorithms
 
 ## Featured Projects
 
