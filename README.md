@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Han Yao 👋
 
-<!--
-**hanyao-dev/hanyao-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer from Taiwan 🇹🇼
 
-Here are some ideas to get you started:
+I enjoy building backend systems, solving engineering problems, and learning distributed systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+**Languages**
+
+Java • C++ • Python • SQL
+
+**Frameworks**
+
+Spring Boot
+
+**Database**
+
+MySQL
+
+**Tools**
+
+Git • Docker • Linux
+
+---
+
+## Featured Projects
+
+### Fitness Backend System
+
+RESTful backend with Spring Boot, JWT Authentication and MySQL.
+
+### P2P Whiteboard
+
+Real-time collaboration using Java TCP/UDP Socket programming.
+
+### Gomoku AI
+
+Heuristic-based AI implemented in Python.
+
+---
+
+## Currently Learning
+
+- Spring Boot
+- Docker
+- Linux
+- LeetCode
+- System Design
+
+---
+
+## Career Goal
+
+Backend Software Engineer
+
+Interested in scalable backend systems, networking and distributed systems.
