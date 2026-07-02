@@ -1,10 +1,10 @@
-# Hi, I'm Han Yao 👋
+# Han Yao
 
 Software Engineer from Taiwan 🇹🇼
 
-I enjoy building backend systems, solving engineering problems, and learning distributed systems.
+I'm passionate about backend development, distributed systems, and computer networking.
 
----
+Currently building production-ready backend applications using Java and Spring Boot while continuously strengthening my software engineering fundamentals.
 
 ## Tech Stack
 
@@ -12,9 +12,9 @@ I enjoy building backend systems, solving engineering problems, and learning dis
 
 Java • C++ • Python • SQL
 
-**Frameworks**
+**Backend**
 
-Spring Boot
+Spring Boot • REST API • Spring Security • JWT
 
 **Database**
 
@@ -22,7 +22,7 @@ MySQL
 
 **Tools**
 
-Git • Docker • Linux
+Git • GitHub • Docker (Learning) • Linux (Learning)
 
 ---
 
@@ -30,30 +30,18 @@ Git • Docker • Linux
 
 ### Fitness Backend System
 
-RESTful backend with Spring Boot, JWT Authentication and MySQL.
+A RESTful backend application built with Spring Boot, JWT authentication, and MySQL.
 
 ### P2P Whiteboard
 
-Real-time collaboration using Java TCP/UDP Socket programming.
+A real-time collaborative whiteboard using Java TCP/UDP socket programming.
 
 ### Gomoku AI
 
-Heuristic-based AI implemented in Python.
+A heuristic-based Gomoku AI implemented in Python.
 
 ---
 
-## Currently Learning
+## Current Goal
 
-- Spring Boot
-- Docker
-- Linux
-- LeetCode
-- System Design
-
----
-
-## Career Goal
-
-Backend Software Engineer
-
-Interested in scalable backend systems, networking and distributed systems.
+Preparing for backend software engineering opportunities in Hsinchu Science Park while continuously improving my system design and problem-solving skills.
