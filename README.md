@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Han Yao Banner">
+</p>
 # Han Yao
 
 Software Engineer from Taiwan 🇹🇼
